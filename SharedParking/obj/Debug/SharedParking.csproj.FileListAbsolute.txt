@@ -1,0 +1,274 @@
+Y:\מגמות\כיתות ד\תכנות\נאוה מקלב\SharedParking\SharedParking\obj\Debug\SharedParking.csprojAssemblyReference.cache
+Y:\מגמות\כיתות ד\תכנות\נאוה מקלב\SharedParking\SharedParking\obj\Debug\SharedParking.GUI.frmCustomer.resources
+Y:\מגמות\כיתות ד\תכנות\נאוה מקלב\SharedParking\SharedParking\obj\Debug\SharedParking.GUI.frmCustomers.resources
+Y:\מגמות\כיתות ד\תכנות\נאוה מקלב\SharedParking\SharedParking\obj\Debug\SharedParking.GUI.frmMain.resources
+Y:\מגמות\כיתות ד\תכנות\נאוה מקלב\SharedParking\SharedParking\obj\Debug\SharedParking.Properties.Resources.resources
+Y:\מגמות\כיתות ד\תכנות\נאוה מקלב\SharedParking\SharedParking\obj\Debug\SharedParking.csproj.GenerateResource.cache
+Y:\מגמות\כיתות ד\תכנות\נאוה מקלב\SharedParking\SharedParking\obj\Debug\SharedParking.csproj.CoreCompileInputs.cache
+C:\Users\Nava\Desktop\תכנות\סמינר\SharedParking\SharedParking\obj\Debug\SharedParking.GUI.frmCustomer.resources
+C:\Users\Nava\Desktop\תכנות\סמינר\SharedParking\SharedParking\obj\Debug\SharedParking.GUI.frmCustomers.resources
+C:\Users\Nava\Desktop\תכנות\סמינר\SharedParking\SharedParking\obj\Debug\SharedParking.GUI.frmMain.resources
+C:\Users\Nava\Desktop\תכנות\סמינר\SharedParking\SharedParking\obj\Debug\SharedParking.Properties.Resources.resources
+C:\Users\Nava\Desktop\תכנות\סמינר\SharedParking\SharedParking\obj\Debug\SharedParking.csproj.GenerateResource.cache
+C:\Users\Nava\Desktop\תכנות\סמינר\SharedParking\SharedParking\obj\Debug\SharedParking.csproj.CoreCompileInputs.cache
+C:\Users\Nava\Desktop\תכנות\סמינר\SharedParking\SharedParking\bin\Debug\SharedParking.exe.config
+C:\Users\Nava\Desktop\תכנות\סמינר\SharedParking\SharedParking\bin\Debug\SharedParking.exe
+C:\Users\Nava\Desktop\תכנות\סמינר\SharedParking\SharedParking\bin\Debug\SharedParking.pdb
+C:\Users\Nava\Desktop\תכנות\סמינר\SharedParking\SharedParking\obj\Debug\SharedParking.exe
+C:\Users\Nava\Desktop\תכנות\סמינר\SharedParking\SharedParking\obj\Debug\SharedParking.pdb
+C:\Users\Nava\Desktop\SharedParking\SharedParking\bin\Debug\SharedParking.exe.config
+C:\Users\Nava\Desktop\SharedParking\SharedParking\bin\Debug\SharedParking.exe
+C:\Users\Nava\Desktop\SharedParking\SharedParking\bin\Debug\SharedParking.pdb
+C:\Users\Nava\Desktop\SharedParking\SharedParking\obj\Debug\SharedParking.csprojAssemblyReference.cache
+C:\Users\Nava\Desktop\SharedParking\SharedParking\obj\Debug\SharedParking.GUI.frmCustomer.resources
+C:\Users\Nava\Desktop\SharedParking\SharedParking\obj\Debug\SharedParking.GUI.frmCustomers.resources
+C:\Users\Nava\Desktop\SharedParking\SharedParking\obj\Debug\SharedParking.GUI.frmMain.resources
+C:\Users\Nava\Desktop\SharedParking\SharedParking\obj\Debug\SharedParking.GUI.frmPark.resources
+C:\Users\Nava\Desktop\SharedParking\SharedParking\obj\Debug\SharedParking.GUI.frmParking.resources
+C:\Users\Nava\Desktop\SharedParking\SharedParking\obj\Debug\SharedParking.GUI.frmParkingOwners.resources
+C:\Users\Nava\Desktop\SharedParking\SharedParking\obj\Debug\SharedParking.GUI.frmParkOwner.resources
+C:\Users\Nava\Desktop\SharedParking\SharedParking\obj\Debug\SharedParking.Properties.Resources.resources
+C:\Users\Nava\Desktop\SharedParking\SharedParking\obj\Debug\SharedParking.csproj.GenerateResource.cache
+C:\Users\Nava\Desktop\SharedParking\SharedParking\obj\Debug\SharedParking.csproj.CoreCompileInputs.cache
+C:\Users\Nava\Desktop\SharedParking\SharedParking\obj\Debug\SharedParking.exe
+C:\Users\Nava\Desktop\SharedParking\SharedParking\obj\Debug\SharedParking.pdb
+C:\Users\Nava\Desktop\SharedParking\SharedParking\obj\Debug\SharedParking.GUI.frmMainParkOwner.resources
+C:\Users\Nava\Desktop\SharedParking\SharedParking\obj\Debug\SharedParking.GUI.frmParkOwner1.resources
+C:\Users\Nava\Desktop\SharedParking\SharedParking\obj\Debug\SharedParking.GUI.frmParkOptions.resources
+C:\Users\Nava\Desktop\SharedParking\SharedParking\obj\Debug\SharedParking.GUI.frmParkOrders.resources
+C:\Users\Nava\Desktop\SharedParking\SharedParking\obj\Debug\SharedParking.GUI.frmAddPark.resources
+C:\Users\Nava\Desktop\SharedParking\SharedParking\obj\Debug\SharedParking.GUI.frmAvailabilitySelection.resources
+C:\Users\Nava\Desktop\SharedParking\SharedParking\obj\Debug\SharedParking.GUI.frmOneTimeAvailability.resources
+C:\Users\Nava\Desktop\SharedParking\SharedParking\obj\Debug\SharedParking.GUI.frmPermanentAvailability.resources
+C:\Users\Nava\Desktop\SharedParking\SharedParking\obj\Debug\SharedParking.GUI.frmRentals.resources
+C:\Users\Nava\Desktop\SharedParking\SharedParking\obj\Debug\SharedParking.GUI.frmData.resources
+C:\Users\Nava\Desktop\SharedParking\SharedParking\obj\Debug\SharedParking.GUI.frmManagement.resources
+C:\Users\Nava\Desktop\SharedParking\SharedParking\obj\Debug\SharedParking.GUI.frmPayments.resources
+C:\Users\Nava\Desktop\SharedParking\SharedParking\obj\Debug\SharedParking.GUI.frmParkOwnerShow.resources
+C:\Users\Nava\Desktop\SharedParking\SharedParking\obj\Debug\SharedParking.GUI.frmLookingForParking.resources
+C:\Users\Nava\Desktop\SharedParking\SharedParking\obj\Debug\SharedParking.GUI.frmParkingOrder.resources
+C:\Users\Nava\Desktop\SharedParking\SharedParking\obj\Debug\SharedParking.GUI.Form1.resources
+C:\Users\Nava\Desktop\SharedParking\SharedParking\obj\Debug\SharedParking.GUI.ghghg.resources
+C:\Users\Nava\Desktop\SharedParking\SharedParking\obj\Debug\SharedParking.GUI.UCSelectedParking.resources
+C:\Users\Nava\Desktop\SharedParking\SharedParking\obj\Debug\SharedParking.GUI.frmEnter.resources
+C:\Users\Nava\Desktop\SharedParking\SharedParking\obj\Debug\SharedParking.GUI.UCpermanetAvailability.resources
+D:\SharedParking\SharedParking\bin\Debug\SharedParking.exe.config
+D:\SharedParking\SharedParking\bin\Debug\SharedParking.exe
+D:\SharedParking\SharedParking\bin\Debug\SharedParking.pdb
+D:\SharedParking\SharedParking\obj\Debug\SharedParking.csprojAssemblyReference.cache
+D:\SharedParking\SharedParking\obj\Debug\SharedParking.GUI.Form1.resources
+D:\SharedParking\SharedParking\obj\Debug\SharedParking.GUI.frmAddPark.resources
+D:\SharedParking\SharedParking\obj\Debug\SharedParking.GUI.frmAvailabilitySelection.resources
+D:\SharedParking\SharedParking\obj\Debug\SharedParking.GUI.frmCustomer.resources
+D:\SharedParking\SharedParking\obj\Debug\SharedParking.GUI.frmCustomers.resources
+D:\SharedParking\SharedParking\obj\Debug\SharedParking.GUI.frmData.resources
+D:\SharedParking\SharedParking\obj\Debug\SharedParking.GUI.frmEnter.resources
+D:\SharedParking\SharedParking\obj\Debug\SharedParking.GUI.frmLookingForParking.resources
+D:\SharedParking\SharedParking\obj\Debug\SharedParking.GUI.frmMain.resources
+D:\SharedParking\SharedParking\obj\Debug\SharedParking.GUI.frmMainParkOwner.resources
+D:\SharedParking\SharedParking\obj\Debug\SharedParking.GUI.frmManagement.resources
+D:\SharedParking\SharedParking\obj\Debug\SharedParking.GUI.frmOneTimeAvailability.resources
+D:\SharedParking\SharedParking\obj\Debug\SharedParking.GUI.frmPark.resources
+D:\SharedParking\SharedParking\obj\Debug\SharedParking.GUI.frmParking.resources
+D:\SharedParking\SharedParking\obj\Debug\SharedParking.GUI.frmParkingOrder.resources
+D:\SharedParking\SharedParking\obj\Debug\SharedParking.GUI.frmParkingOwners.resources
+D:\SharedParking\SharedParking\obj\Debug\SharedParking.GUI.frmParkOptions.resources
+D:\SharedParking\SharedParking\obj\Debug\SharedParking.GUI.frmParkOrders.resources
+D:\SharedParking\SharedParking\obj\Debug\SharedParking.GUI.frmParkOwner.resources
+D:\SharedParking\SharedParking\obj\Debug\SharedParking.GUI.frmParkOwner1.resources
+D:\SharedParking\SharedParking\obj\Debug\SharedParking.GUI.frmParkOwnerShow.resources
+D:\SharedParking\SharedParking\obj\Debug\SharedParking.GUI.frmPayments.resources
+D:\SharedParking\SharedParking\obj\Debug\SharedParking.GUI.frmPermanentAvailability.resources
+D:\SharedParking\SharedParking\obj\Debug\SharedParking.GUI.frmRentals.resources
+D:\SharedParking\SharedParking\obj\Debug\SharedParking.GUI.ghghg.resources
+D:\SharedParking\SharedParking\obj\Debug\SharedParking.GUI.UCpermanetAvailability.resources
+D:\SharedParking\SharedParking\obj\Debug\SharedParking.GUI.UCSelectedParking.resources
+D:\SharedParking\SharedParking\obj\Debug\SharedParking.Properties.Resources.resources
+D:\SharedParking\SharedParking\obj\Debug\SharedParking.csproj.GenerateResource.cache
+D:\SharedParking\SharedParking\obj\Debug\SharedParking.csproj.CoreCompileInputs.cache
+D:\SharedParking\SharedParking\obj\Debug\SharedParking.exe
+D:\SharedParking\SharedParking\obj\Debug\SharedParking.pdb
+Y:\מגמות\כיתות ד\תכנות\SharedParking\SharedParking\bin\Debug\SharedParking.exe.config
+Y:\מגמות\כיתות ד\תכנות\SharedParking\SharedParking\bin\Debug\SharedParking.exe
+Y:\מגמות\כיתות ד\תכנות\SharedParking\SharedParking\bin\Debug\SharedParking.pdb
+Y:\מגמות\כיתות ד\תכנות\SharedParking\SharedParking\obj\Debug\SharedParking.csprojAssemblyReference.cache
+Y:\מגמות\כיתות ד\תכנות\SharedParking\SharedParking\obj\Debug\SharedParking.GUI.Form1.resources
+Y:\מגמות\כיתות ד\תכנות\SharedParking\SharedParking\obj\Debug\SharedParking.GUI.frmAddPark.resources
+Y:\מגמות\כיתות ד\תכנות\SharedParking\SharedParking\obj\Debug\SharedParking.GUI.frmAvailabilitySelection.resources
+Y:\מגמות\כיתות ד\תכנות\SharedParking\SharedParking\obj\Debug\SharedParking.GUI.frmCustomer.resources
+Y:\מגמות\כיתות ד\תכנות\SharedParking\SharedParking\obj\Debug\SharedParking.GUI.frmCustomers.resources
+Y:\מגמות\כיתות ד\תכנות\SharedParking\SharedParking\obj\Debug\SharedParking.GUI.frmData.resources
+Y:\מגמות\כיתות ד\תכנות\SharedParking\SharedParking\obj\Debug\SharedParking.GUI.frmEnter.resources
+Y:\מגמות\כיתות ד\תכנות\SharedParking\SharedParking\obj\Debug\SharedParking.GUI.frmLookingForParking.resources
+Y:\מגמות\כיתות ד\תכנות\SharedParking\SharedParking\obj\Debug\SharedParking.GUI.frmMain.resources
+Y:\מגמות\כיתות ד\תכנות\SharedParking\SharedParking\obj\Debug\SharedParking.GUI.frmMainParkOwner.resources
+Y:\מגמות\כיתות ד\תכנות\SharedParking\SharedParking\obj\Debug\SharedParking.GUI.frmManagement.resources
+Y:\מגמות\כיתות ד\תכנות\SharedParking\SharedParking\obj\Debug\SharedParking.GUI.frmOneTimeAvailability.resources
+Y:\מגמות\כיתות ד\תכנות\SharedParking\SharedParking\obj\Debug\SharedParking.GUI.frmPark.resources
+Y:\מגמות\כיתות ד\תכנות\SharedParking\SharedParking\obj\Debug\SharedParking.GUI.frmParking.resources
+Y:\מגמות\כיתות ד\תכנות\SharedParking\SharedParking\obj\Debug\SharedParking.GUI.frmParkingOrder.resources
+Y:\מגמות\כיתות ד\תכנות\SharedParking\SharedParking\obj\Debug\SharedParking.GUI.frmParkingOwners.resources
+Y:\מגמות\כיתות ד\תכנות\SharedParking\SharedParking\obj\Debug\SharedParking.GUI.frmParkOptions.resources
+Y:\מגמות\כיתות ד\תכנות\SharedParking\SharedParking\obj\Debug\SharedParking.GUI.frmParkOrders.resources
+Y:\מגמות\כיתות ד\תכנות\SharedParking\SharedParking\obj\Debug\SharedParking.GUI.frmParkOwner.resources
+Y:\מגמות\כיתות ד\תכנות\SharedParking\SharedParking\obj\Debug\SharedParking.GUI.frmParkOwner1.resources
+Y:\מגמות\כיתות ד\תכנות\SharedParking\SharedParking\obj\Debug\SharedParking.GUI.frmParkOwnerShow.resources
+Y:\מגמות\כיתות ד\תכנות\SharedParking\SharedParking\obj\Debug\SharedParking.GUI.frmPayments.resources
+Y:\מגמות\כיתות ד\תכנות\SharedParking\SharedParking\obj\Debug\SharedParking.GUI.frmPermanentAvailability.resources
+Y:\מגמות\כיתות ד\תכנות\SharedParking\SharedParking\obj\Debug\SharedParking.GUI.frmRentals.resources
+Y:\מגמות\כיתות ד\תכנות\SharedParking\SharedParking\obj\Debug\SharedParking.GUI.ghghg.resources
+Y:\מגמות\כיתות ד\תכנות\SharedParking\SharedParking\obj\Debug\SharedParking.GUI.UCpermanetAvailability.resources
+Y:\מגמות\כיתות ד\תכנות\SharedParking\SharedParking\obj\Debug\SharedParking.GUI.UCSelectedParking.resources
+Y:\מגמות\כיתות ד\תכנות\SharedParking\SharedParking\obj\Debug\SharedParking.Properties.Resources.resources
+Y:\מגמות\כיתות ד\תכנות\SharedParking\SharedParking\obj\Debug\SharedParking.csproj.GenerateResource.cache
+Y:\מגמות\כיתות ד\תכנות\SharedParking\SharedParking\obj\Debug\SharedParking.csproj.CoreCompileInputs.cache
+Y:\מגמות\כיתות ד\תכנות\SharedParking\SharedParking\obj\Debug\SharedParking.exe
+Y:\מגמות\כיתות ד\תכנות\SharedParking\SharedParking\obj\Debug\SharedParking.pdb
+Y:\מגמות\כיתות ד\תכנות\נאוה מקלב\ד אדר\SharedParking\SharedParking\obj\Debug\SharedParking.csprojAssemblyReference.cache
+Y:\מגמות\כיתות ד\תכנות\נאוה מקלב\ד אדר\SharedParking\SharedParking\obj\Debug\SharedParking.GUI.Form1.resources
+Y:\מגמות\כיתות ד\תכנות\נאוה מקלב\ד אדר\SharedParking\SharedParking\obj\Debug\SharedParking.GUI.frmAddPark.resources
+Y:\מגמות\כיתות ד\תכנות\נאוה מקלב\ד אדר\SharedParking\SharedParking\obj\Debug\SharedParking.GUI.frmAvailabilitySelection.resources
+Y:\מגמות\כיתות ד\תכנות\נאוה מקלב\ד אדר\SharedParking\SharedParking\obj\Debug\SharedParking.GUI.frmCustomer.resources
+Y:\מגמות\כיתות ד\תכנות\נאוה מקלב\ד אדר\SharedParking\SharedParking\obj\Debug\SharedParking.GUI.frmCustomers.resources
+Y:\מגמות\כיתות ד\תכנות\נאוה מקלב\ד אדר\SharedParking\SharedParking\obj\Debug\SharedParking.GUI.frmData.resources
+Y:\מגמות\כיתות ד\תכנות\נאוה מקלב\ד אדר\SharedParking\SharedParking\obj\Debug\SharedParking.GUI.frmEnter.resources
+Y:\מגמות\כיתות ד\תכנות\נאוה מקלב\ד אדר\SharedParking\SharedParking\obj\Debug\SharedParking.GUI.frmLookingForParking.resources
+Y:\מגמות\כיתות ד\תכנות\נאוה מקלב\ד אדר\SharedParking\SharedParking\obj\Debug\SharedParking.GUI.frmMain.resources
+Y:\מגמות\כיתות ד\תכנות\נאוה מקלב\ד אדר\SharedParking\SharedParking\obj\Debug\SharedParking.GUI.frmMainParkOwner.resources
+Y:\מגמות\כיתות ד\תכנות\נאוה מקלב\ד אדר\SharedParking\SharedParking\obj\Debug\SharedParking.GUI.frmManagement.resources
+Y:\מגמות\כיתות ד\תכנות\נאוה מקלב\ד אדר\SharedParking\SharedParking\obj\Debug\SharedParking.GUI.frmOneTimeAvailability.resources
+Y:\מגמות\כיתות ד\תכנות\נאוה מקלב\ד אדר\SharedParking\SharedParking\obj\Debug\SharedParking.GUI.frmPark.resources
+Y:\מגמות\כיתות ד\תכנות\נאוה מקלב\ד אדר\SharedParking\SharedParking\obj\Debug\SharedParking.GUI.frmParking.resources
+Y:\מגמות\כיתות ד\תכנות\נאוה מקלב\ד אדר\SharedParking\SharedParking\obj\Debug\SharedParking.GUI.frmParkingOrder.resources
+Y:\מגמות\כיתות ד\תכנות\נאוה מקלב\ד אדר\SharedParking\SharedParking\obj\Debug\SharedParking.GUI.frmParkingOwners.resources
+Y:\מגמות\כיתות ד\תכנות\נאוה מקלב\ד אדר\SharedParking\SharedParking\obj\Debug\SharedParking.GUI.frmParkOptions.resources
+Y:\מגמות\כיתות ד\תכנות\נאוה מקלב\ד אדר\SharedParking\SharedParking\obj\Debug\SharedParking.GUI.frmParkOrders.resources
+Y:\מגמות\כיתות ד\תכנות\נאוה מקלב\ד אדר\SharedParking\SharedParking\obj\Debug\SharedParking.GUI.frmParkOwner.resources
+Y:\מגמות\כיתות ד\תכנות\נאוה מקלב\ד אדר\SharedParking\SharedParking\obj\Debug\SharedParking.GUI.frmParkOwner1.resources
+Y:\מגמות\כיתות ד\תכנות\נאוה מקלב\ד אדר\SharedParking\SharedParking\obj\Debug\SharedParking.GUI.frmParkOwnerShow.resources
+Y:\מגמות\כיתות ד\תכנות\נאוה מקלב\ד אדר\SharedParking\SharedParking\obj\Debug\SharedParking.GUI.frmPayments.resources
+Y:\מגמות\כיתות ד\תכנות\נאוה מקלב\ד אדר\SharedParking\SharedParking\obj\Debug\SharedParking.GUI.frmPermanentAvailability.resources
+Y:\מגמות\כיתות ד\תכנות\נאוה מקלב\ד אדר\SharedParking\SharedParking\obj\Debug\SharedParking.GUI.frmRentals.resources
+Y:\מגמות\כיתות ד\תכנות\נאוה מקלב\ד אדר\SharedParking\SharedParking\obj\Debug\SharedParking.GUI.ghghg.resources
+Y:\מגמות\כיתות ד\תכנות\נאוה מקלב\ד אדר\SharedParking\SharedParking\obj\Debug\SharedParking.GUI.UCpermanetAvailability.resources
+Y:\מגמות\כיתות ד\תכנות\נאוה מקלב\ד אדר\SharedParking\SharedParking\obj\Debug\SharedParking.GUI.UCSelectedParking.resources
+Y:\מגמות\כיתות ד\תכנות\נאוה מקלב\ד אדר\SharedParking\SharedParking\obj\Debug\SharedParking.Properties.Resources.resources
+Y:\מגמות\כיתות ד\תכנות\נאוה מקלב\ד אדר\SharedParking\SharedParking\obj\Debug\SharedParking.csproj.GenerateResource.cache
+Y:\מגמות\כיתות ד\תכנות\נאוה מקלב\ד אדר\SharedParking\SharedParking\obj\Debug\SharedParking.csproj.CoreCompileInputs.cache
+Y:\מגמות\כיתות ד\תכנות\נאוה מקלב\ד אדר\SharedParking\SharedParking\obj\Debug\SharedParking.exe
+Y:\מגמות\כיתות ד\תכנות\נאוה מקלב\ד אדר\SharedParking\SharedParking\obj\Debug\SharedParking.pdb
+Y:\מגמות\כיתות ד\תכנות\נאוה מקלב\ד אדר\SharedParking\SharedParking\bin\Debug\SharedParking.exe.config
+Y:\מגמות\כיתות ד\תכנות\נאוה מקלב\ד אדר\SharedParking\SharedParking\bin\Debug\SharedParking.exe
+Y:\מגמות\כיתות ד\תכנות\נאוה מקלב\ד אדר\SharedParking\SharedParking\bin\Debug\SharedParking.pdb
+C:\Users\Nava\Desktop\SharedParking\SharedParking\obj\Debug\SharedParking.BLL.UCOrder.resources
+C:\Users\Nava\Desktop\SharedParking\SharedParking\obj\Debug\SharedParking.BLL.UCStaticOrder.resources
+F:\SharedParking\SharedParking\bin\Debug\SharedParking.exe.config
+F:\SharedParking\SharedParking\bin\Debug\SharedParking.exe
+F:\SharedParking\SharedParking\bin\Debug\SharedParking.pdb
+F:\SharedParking\SharedParking\obj\Debug\SharedParking.csprojAssemblyReference.cache
+F:\SharedParking\SharedParking\obj\Debug\SharedParking.BLL.UCOrder.resources
+F:\SharedParking\SharedParking\obj\Debug\SharedParking.GUI.Form1.resources
+F:\SharedParking\SharedParking\obj\Debug\SharedParking.GUI.frmAddPark.resources
+F:\SharedParking\SharedParking\obj\Debug\SharedParking.GUI.frmAvailabilitySelection.resources
+F:\SharedParking\SharedParking\obj\Debug\SharedParking.GUI.frmCustomer.resources
+F:\SharedParking\SharedParking\obj\Debug\SharedParking.GUI.frmCustomers.resources
+F:\SharedParking\SharedParking\obj\Debug\SharedParking.GUI.frmData.resources
+F:\SharedParking\SharedParking\obj\Debug\SharedParking.GUI.frmEnter.resources
+F:\SharedParking\SharedParking\obj\Debug\SharedParking.GUI.frmLookingForParking.resources
+F:\SharedParking\SharedParking\obj\Debug\SharedParking.GUI.frmMain.resources
+F:\SharedParking\SharedParking\obj\Debug\SharedParking.GUI.frmMainParkOwner.resources
+F:\SharedParking\SharedParking\obj\Debug\SharedParking.GUI.frmManagement.resources
+F:\SharedParking\SharedParking\obj\Debug\SharedParking.GUI.frmOneTimeAvailability.resources
+F:\SharedParking\SharedParking\obj\Debug\SharedParking.GUI.frmPark.resources
+F:\SharedParking\SharedParking\obj\Debug\SharedParking.GUI.frmParking.resources
+F:\SharedParking\SharedParking\obj\Debug\SharedParking.GUI.frmParkingOrder.resources
+F:\SharedParking\SharedParking\obj\Debug\SharedParking.GUI.frmParkingOwners.resources
+F:\SharedParking\SharedParking\obj\Debug\SharedParking.GUI.frmParkOptions.resources
+F:\SharedParking\SharedParking\obj\Debug\SharedParking.GUI.frmParkOrders.resources
+F:\SharedParking\SharedParking\obj\Debug\SharedParking.GUI.frmParkOwner.resources
+F:\SharedParking\SharedParking\obj\Debug\SharedParking.GUI.frmParkOwner1.resources
+F:\SharedParking\SharedParking\obj\Debug\SharedParking.GUI.frmParkOwnerShow.resources
+F:\SharedParking\SharedParking\obj\Debug\SharedParking.GUI.frmPayments.resources
+F:\SharedParking\SharedParking\obj\Debug\SharedParking.GUI.frmPermanentAvailability.resources
+F:\SharedParking\SharedParking\obj\Debug\SharedParking.GUI.frmRentals.resources
+F:\SharedParking\SharedParking\obj\Debug\SharedParking.GUI.ghghg.resources
+F:\SharedParking\SharedParking\obj\Debug\SharedParking.GUI.UCpermanetAvailability.resources
+F:\SharedParking\SharedParking\obj\Debug\SharedParking.GUI.UCSelectedParking.resources
+F:\SharedParking\SharedParking\obj\Debug\SharedParking.BLL.UCStaticOrder.resources
+F:\SharedParking\SharedParking\obj\Debug\SharedParking.Properties.Resources.resources
+F:\SharedParking\SharedParking\obj\Debug\SharedParking.csproj.GenerateResource.cache
+F:\SharedParking\SharedParking\obj\Debug\SharedParking.csproj.CoreCompileInputs.cache
+F:\SharedParking\SharedParking\obj\Debug\SharedParking.exe
+F:\SharedParking\SharedParking\obj\Debug\SharedParking.pdb
+D:\SharedParking\SharedParking\obj\Debug\SharedParking.BLL.UCOrder.resources
+D:\SharedParking\SharedParking\obj\Debug\SharedParking.BLL.UCStaticOrder.resources
+D:\SharedParking\SharedParking\obj\Debug\SharedParking.GUI.frmMainCustomer.resources
+D:\SharedParking\SharedParking\obj\Debug\SharedParking.GUI.frmCancelOrder.resources
+C:\Users\Nava\Desktop\SharedParking\SharedParking\obj\Debug\SharedParking.GUI.frmCancelOrder.resources
+C:\Users\Nava\Desktop\SharedParking\SharedParking\obj\Debug\SharedParking.GUI.frmMainCustomer.resources
+C:\Users\Nava\Desktop\SharedParking\SharedParking\obj\Debug\SharedParking.GUI.UCcancelOnceOrder.resources
+C:\Users\Nava\Desktop\SharedParking\SharedParking\obj\Debug\SharedParking.GUI.UCNotFound.resources
+C:\Users\Nava\Desktop\SharedParking\SharedParking\obj\Debug\SharedParking.GUI.frmEnterToPark.resources
+C:\Users\Nava\Desktop\SharedParking\SharedParking\obj\Debug\SharedParking.GUI.frmExitFromPark.resources
+C:\Users\Nava\Desktop\SharedParking\SharedParking\obj\Debug\SharedParking.GUI.UCPreviousRentals.resources
+C:\Users\Nava\Desktop\SharedParking\SharedParking\obj\Debug\SharedParking.GUI.UCStaticPreviousRentals.resources
+C:\Users\Nava\Desktop\SharedParking\SharedParking\obj\Debug\SharedParking.GUI.UCMessege.resources
+F:\SharedParking\SharedParking\obj\Debug\SharedParking.GUI.frmCancelOrder.resources
+F:\SharedParking\SharedParking\obj\Debug\SharedParking.GUI.frmEnterToPark.resources
+F:\SharedParking\SharedParking\obj\Debug\SharedParking.GUI.frmExitFromPark.resources
+F:\SharedParking\SharedParking\obj\Debug\SharedParking.GUI.frmMainCustomer.resources
+F:\SharedParking\SharedParking\obj\Debug\SharedParking.GUI.UCcancelOnceOrder.resources
+F:\SharedParking\SharedParking\obj\Debug\SharedParking.GUI.UCMessege.resources
+F:\SharedParking\SharedParking\obj\Debug\SharedParking.GUI.UCNotFound.resources
+F:\SharedParking\SharedParking\obj\Debug\SharedParking.GUI.UCPreviousRentals.resources
+F:\SharedParking\SharedParking\obj\Debug\SharedParking.GUI.UCStaticPreviousRentals.resources
+C:\Users\Nava\Desktop\SharedParking\SharedParking\obj\Debug\SharedParking.GUI.frmAbout.resources
+C:\Users\Nava\Desktop\SharedParking\SharedParking\obj\Debug\SharedParking.GUI.frmMenger.resources
+D:\SharedParking\SharedParking\obj\Debug\SharedParking.GUI.frmAbout.resources
+D:\SharedParking\SharedParking\obj\Debug\SharedParking.GUI.frmEnterToPark.resources
+D:\SharedParking\SharedParking\obj\Debug\SharedParking.GUI.frmExitFromPark.resources
+D:\SharedParking\SharedParking\obj\Debug\SharedParking.GUI.frmMenger.resources
+D:\SharedParking\SharedParking\obj\Debug\SharedParking.GUI.UCcancelOnceOrder.resources
+D:\SharedParking\SharedParking\obj\Debug\SharedParking.GUI.UCMessege.resources
+D:\SharedParking\SharedParking\obj\Debug\SharedParking.GUI.UCNotFound.resources
+D:\SharedParking\SharedParking\obj\Debug\SharedParking.GUI.UCPreviousRentals.resources
+D:\SharedParking\SharedParking\obj\Debug\SharedParking.GUI.UCStaticPreviousRentals.resources
+C:\Users\Nava\Desktop\תכנות\סמינר\SharedParking\SharedParking\obj\Debug\SharedParking.csproj.AssemblyReference.cache
+C:\Users\Nava\Desktop\תכנות\סמינר\SharedParking\SharedParking\obj\Debug\SharedParking.csproj.SuggestedBindingRedirects.cache
+C:\Users\Nava\Desktop\תכנות\סמינר\SharedParking\SharedParking\obj\Debug\SharedParking.GUI.frmAbout.resources
+C:\Users\Nava\Desktop\תכנות\סמינר\SharedParking\SharedParking\obj\Debug\SharedParking.GUI.frmCancelOrder.resources
+C:\Users\Nava\Desktop\תכנות\סמינר\SharedParking\SharedParking\obj\Debug\SharedParking.GUI.frmEnterToPark.resources
+C:\Users\Nava\Desktop\תכנות\סמינר\SharedParking\SharedParking\obj\Debug\SharedParking.GUI.frmExitFromPark.resources
+C:\Users\Nava\Desktop\תכנות\סמינר\SharedParking\SharedParking\obj\Debug\SharedParking.GUI.frmMainCustomer.resources
+C:\Users\Nava\Desktop\תכנות\סמינר\SharedParking\SharedParking\obj\Debug\SharedParking.GUI.frmMenger.resources
+C:\Users\Nava\Desktop\תכנות\סמינר\SharedParking\SharedParking\obj\Debug\SharedParking.GUI.UCcancelOnceOrder.resources
+C:\Users\Nava\Desktop\תכנות\סמינר\SharedParking\SharedParking\obj\Debug\SharedParking.GUI.UCMessege.resources
+C:\Users\Nava\Desktop\תכנות\סמינר\SharedParking\SharedParking\obj\Debug\SharedParking.GUI.UCNotFound.resources
+C:\Users\Nava\Desktop\תכנות\סמינר\SharedParking\SharedParking\obj\Debug\SharedParking.BLL.UCOrder.resources
+C:\Users\Nava\Desktop\תכנות\סמינר\SharedParking\SharedParking\obj\Debug\SharedParking.GUI.Form1.resources
+C:\Users\Nava\Desktop\תכנות\סמינר\SharedParking\SharedParking\obj\Debug\SharedParking.GUI.frmAddPark.resources
+C:\Users\Nava\Desktop\תכנות\סמינר\SharedParking\SharedParking\obj\Debug\SharedParking.GUI.frmAvailabilitySelection.resources
+C:\Users\Nava\Desktop\תכנות\סמינר\SharedParking\SharedParking\obj\Debug\SharedParking.GUI.frmData.resources
+C:\Users\Nava\Desktop\תכנות\סמינר\SharedParking\SharedParking\obj\Debug\SharedParking.GUI.frmEnter.resources
+C:\Users\Nava\Desktop\תכנות\סמינר\SharedParking\SharedParking\obj\Debug\SharedParking.GUI.frmLookingForParking.resources
+C:\Users\Nava\Desktop\תכנות\סמינר\SharedParking\SharedParking\obj\Debug\SharedParking.GUI.frmMainParkOwner.resources
+C:\Users\Nava\Desktop\תכנות\סמינר\SharedParking\SharedParking\obj\Debug\SharedParking.GUI.frmManagement.resources
+C:\Users\Nava\Desktop\תכנות\סמינר\SharedParking\SharedParking\obj\Debug\SharedParking.GUI.frmOneTimeAvailability.resources
+C:\Users\Nava\Desktop\תכנות\סמינר\SharedParking\SharedParking\obj\Debug\SharedParking.GUI.frmPark.resources
+C:\Users\Nava\Desktop\תכנות\סמינר\SharedParking\SharedParking\obj\Debug\SharedParking.GUI.frmParking.resources
+C:\Users\Nava\Desktop\תכנות\סמינר\SharedParking\SharedParking\obj\Debug\SharedParking.GUI.frmParkingOrder.resources
+C:\Users\Nava\Desktop\תכנות\סמינר\SharedParking\SharedParking\obj\Debug\SharedParking.GUI.frmParkingOwners.resources
+C:\Users\Nava\Desktop\תכנות\סמינר\SharedParking\SharedParking\obj\Debug\SharedParking.GUI.frmParkOptions.resources
+C:\Users\Nava\Desktop\תכנות\סמינר\SharedParking\SharedParking\obj\Debug\SharedParking.GUI.frmParkOrders.resources
+C:\Users\Nava\Desktop\תכנות\סמינר\SharedParking\SharedParking\obj\Debug\SharedParking.GUI.frmParkOwner.resources
+C:\Users\Nava\Desktop\תכנות\סמינר\SharedParking\SharedParking\obj\Debug\SharedParking.GUI.frmParkOwner1.resources
+C:\Users\Nava\Desktop\תכנות\סמינר\SharedParking\SharedParking\obj\Debug\SharedParking.GUI.frmParkOwnerShow.resources
+C:\Users\Nava\Desktop\תכנות\סמינר\SharedParking\SharedParking\obj\Debug\SharedParking.GUI.frmPayments.resources
+C:\Users\Nava\Desktop\תכנות\סמינר\SharedParking\SharedParking\obj\Debug\SharedParking.GUI.frmPermanentAvailability.resources
+C:\Users\Nava\Desktop\תכנות\סמינר\SharedParking\SharedParking\obj\Debug\SharedParking.GUI.frmRentals.resources
+C:\Users\Nava\Desktop\תכנות\סמינר\SharedParking\SharedParking\obj\Debug\SharedParking.GUI.ghghg.resources
+C:\Users\Nava\Desktop\תכנות\סמינר\SharedParking\SharedParking\obj\Debug\SharedParking.GUI.UCpermanetAvailability.resources
+C:\Users\Nava\Desktop\תכנות\סמינר\SharedParking\SharedParking\obj\Debug\SharedParking.GUI.UCPreviousRentals.resources
+C:\Users\Nava\Desktop\תכנות\סמינר\SharedParking\SharedParking\obj\Debug\SharedParking.GUI.UCSelectedParking.resources
+C:\Users\Nava\Desktop\תכנות\סמינר\SharedParking\SharedParking\obj\Debug\SharedParking.BLL.UCStaticOrder.resources
+C:\Users\Nava\Desktop\תכנות\סמינר\SharedParking\SharedParking\obj\Debug\SharedParking.GUI.UCStaticPreviousRentals.resources
